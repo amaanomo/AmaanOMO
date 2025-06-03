@@ -16,7 +16,7 @@ Next.js, MongoDB, UI polish, and the startup grind.
 Founding Forge (my dev club), launching MVPs fast, or balancing design and functionality.
 
 ⚡ **Fun fact**  
-I play volleyball, love cats, and live a clean, active life (yes, I touch grass).
+I play volleyball, love cats, and live a clean, active touching grass life.
 
 ---
 
