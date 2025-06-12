@@ -1,10 +1,10 @@
 # 💫 About Me
 
 🛠️ **Currently working on**  
-Buildback (founder–investor platform), BlueScore (UB grade analytics), and sharpening my full-stack dev skills.
+Matchy AI and sharpening my full-stack dev skills.
 
 🤝 **Looking to collaborate on**  
-Open-source tools, early-stage startups, or hackathon projects with great energy.
+Open-source tools, early-stage startups, or hackathon projects
 
 🧠 **Need help with**  
 Design systems, marketing growth loops, and building a clean React/Node stack.
@@ -12,10 +12,7 @@ Design systems, marketing growth loops, and building a clean React/Node stack.
 🌱 **Currently learning**  
 Next.js, MongoDB, UI polish, and the startup grind.
 
-💬 **Ask me about**  
-Founding Forge (my dev club), launching MVPs fast, or balancing design and functionality.
-
-⚡ **Fun fact**  
+⚡ **Fun facts**  
 I play volleyball, love cats, and live a clean, active touching grass life.
 
 ---
