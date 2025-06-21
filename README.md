@@ -1,6 +1,6 @@
 # About Me
 
-🛠**Currently working on**  
+**Currently working on**  
 Matchy AI and sharpening my full-stack dev skills.
 
 **Looking to collaborate on**  
