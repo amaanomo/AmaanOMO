@@ -1,18 +1,18 @@
-# 💫 About Me
+# About Me
 
-🛠️ **Currently working on**  
+🛠**Currently working on**  
 Matchy AI and sharpening my full-stack dev skills.
 
-🤝 **Looking to collaborate on**  
+**Looking to collaborate on**  
 Open-source tools, early-stage startups, or hackathon projects
 
-🧠 **Need help with**  
+**Need help with**  
 Design systems, marketing growth loops, and building a clean React/Node stack.
 
-🌱 **Currently learning**  
+**Currently learning**  
 Next.js, MongoDB, UI polish, and the startup grind.
 
-⚡ **Fun facts**  
+**Fun facts**  
 I play volleyball, love cats, and live a clean, active touching grass life.
 
 ---
