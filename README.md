@@ -13,7 +13,7 @@ Design systems, marketing growth loops, and building a clean React/Node stack.
 Next.js, MongoDB, UI polish, and the startup grind.
 
 **Fun facts**  
-I play volleyball, love cats, and live a clean, active touching grass life.
+I play volleyball, love cats, and like to live a clean, active life.
 
 ---
 
