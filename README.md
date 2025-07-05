@@ -4,13 +4,15 @@
 
 <div align="center">
 	<p>Full-Stack Software Engineer <br><a href="https://amaans.dev">Who's Amaan?</a><br><a href="https://www.linkedin.com/in/amaansheikh-swe">Connect with me!</a></p>
-	
-
+	______
+<p></p>
+<p></p>
+<p></p>
 🏐 volleyball & 💻 coding<br/>
 Into full-stack, cats, ai/ml, traveling, startups and anything that makes life smoother with code.<br/>
 Trying to live a clean and active life.
-</p>
-       ______
+</p>       
+        ______
 
 </div>
 
