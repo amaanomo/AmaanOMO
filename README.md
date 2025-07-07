@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-	<p>Full-Stack Software Engineer <br><a href="https://amaans.dev">Visit my personal website!</a><br><a href="https://www.linkedin.com/in/amaansheikh-swe">Connect with me!</a></p>
+	<p>Full-Stack Software Engineer & Student<br><a href="https://amaans.dev">Visit my personal website!</a><br><a href="https://www.linkedin.com/in/amaansheikh-swe">Connect with me!</a></p>
 	______
 <p></p>
 
