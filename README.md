@@ -41,14 +41,10 @@ A GPA analytics platform for UB students that visualizes grade trends across cou
 
 Tech: `Next.js`, `TypeScript`, `Tailwind CSS`, `Supabase`, `Recharts`, `Vercel`
 
----
-
 ### **Itinera**
 An AI-powered travel planner that maps optimized multi-city routes and recommends places to visit based on your mood.
 
 Tech: `Next.js`, `React`, `Tailwind CSS`, `Google Maps API`, `OpenAI API`
-
----
 
 ### **Fully Automated Catapult**
 Led a 19-person team to design an Arduino-powered catapult. Raised $1,900, coded in C++, and demoed to alumni.
