@@ -10,6 +10,8 @@ I'm also the founder of **UB Forge**, a student-run developers collective helpin
 
 When I'm not coding, you'll probably find me playing volleyball, spending time with friends and family, or watching travel videos. I'm always trying to live a clean and active life.
 
+Learn more about me → [amaans.dev](https://amaans.dev)
+
 ---
 
 ## Tech I Work With
