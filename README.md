@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=228B22&center=true&vCenter=true&width=435&lines=Hello!+I'm+Amaan;Always+building+and+learning!;I+like+volleyball+and+cats;Founder+of+UB+Forge" alt="Typing SVG" />
 </div>
 
-## 👋 Hi, I'm Amaan!
+## 👋 Hello, I'm Amaan!
 
 I'm a student at the University at Buffalo, studying Computer Science and Statistics. I'm into full-stack development, AI/ML, and turning cool ideas into working products.
 
