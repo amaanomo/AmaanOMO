@@ -6,7 +6,7 @@
 
 I'm a student at the University at Buffalo, studying Computer Science and Statistics. I'm into full-stack development, AI/ML, and turning cool ideas into working products.
 
-I'm also the founder of **UB Forge**, a student-run developers collective helping ambitious students build real-world projects, explore startups, and connect with mentors.
+I'm also the founder of **UB Forge**, a student-run developers collective helping ambitious students build real-world projects, explore startups, and connect with mentors. → [ubforge.com](https://ubforge.com)
 
 When I'm not coding, you'll probably find me playing volleyball, spending time with friends and family, or watching travel videos. I'm always trying to live a clean and active life.
 
