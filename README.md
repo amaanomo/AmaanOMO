@@ -41,7 +41,7 @@ Learn more about me → [amaans.dev](https://amaans.dev)
 ### **Rally – Ongoing**
 A social and stats tracking volleyball app. The next era of volleyball, redefined
 
-Tech: `Next.js`, `TypeScript`, `Tailwind CSS`, `Supabase`, `Recharts`, `Vercel`
+Tech: `Swift`, `Go`, `PostgresSQL`
 
 ### **Itinera**
 An AI-powered travel planner that maps optimized multi-city routes and recommends places to visit based on your mood.
