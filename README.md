@@ -9,9 +9,9 @@
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3200&pause=1600&color=8B949E&center=true&vCenter=true&width=460&lines=i+build+cool+things+sometimes;founder+of+ub+forge;volleyball%2C+cats%2C+and+code">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3200&pause=1600&color=59636E&center=true&vCenter=true&width=460&lines=i+build+cool+things+sometimes;founder+of+ub+forge;volleyball%2C+cats%2C+and+code">
-  <img alt="i build cool things sometimes" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3200&pause=1600&color=8B949E&center=true&vCenter=true&width=460&lines=i+build+cool+things+sometimes;founder+of+ub+forge;volleyball%2C+cats%2C+and+code">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3200&pause=1600&color=8B949E&center=true&vCenter=true&width=560&lines=previously+at+IBM;Founder+of+UB+Forge%2C+250%2B+student+builders;SWE+at+OneAuris%2C+building+AI+for+lawyers">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3200&pause=1600&color=59636E&center=true&vCenter=true&width=560&lines=previously+at+IBM;Founder+of+UB+Forge%2C+250%2B+student+builders;SWE+at+OneAuris%2C+building+AI+for+lawyers">
+  <img alt="previously at IBM" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3200&pause=1600&color=8B949E&center=true&vCenter=true&width=560&lines=previously+at+IBM;Founder+of+UB+Forge%2C+250%2B+student+builders;SWE+at+OneAuris%2C+building+AI+for+lawyers">
 </picture>
 
 <br><br>

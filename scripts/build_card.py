@@ -12,12 +12,11 @@ from fontTools.pens.svgPathPen import SVGPathPen
 NAME = "Amaan Sheikh"
 SUBTITLE = "I build things that make people's lives better (hopefully)"
 ABOUT = (
-    "hey, i'm amaan! right now i'm building ai tools for lawyers at "
-    "oneauris and running ub forge, a crew of 250+ student builders. "
-    "before that i was at ibm and catchu. outside of code i'm usually "
-    "side questing, whether that's playing volleyball, finding new food "
-    "spots, watching or making films with friends, or trying to find "
-    "places i can travel to with money i don't have."
+    "Hey, I'm Amaan! I'm currently a senior at the University at Buffalo, "
+    "and I happen to build cool things, sometimes.. When I'm not coding, "
+    "I'm usually side questing, whether that's playing volleyball, finding "
+    "new food spots, watching or making films with friends, or trying to "
+    "find places I can travel to with money I don't have."
 )
 # ─────────────────────────────────────────────
 
