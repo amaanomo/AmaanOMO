@@ -1,80 +1,29 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=228B22&center=true&vCenter=true&width=435&lines=Hello!+I'm+Amaan;Always+building+and+learning!;I+like+volleyball+and+cats;Founder+of+UB+Forge" alt="Typing SVG" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/card-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/card-light.svg">
+  <img alt="Amaan Sheikh. just a guy who builds things that help people (hopefully). right now i'm building ai tools for lawyers at oneauris and running ub forge, a crew of 250+ student builders. before that i was at ibm and catchu." src="./assets/card-dark.svg" width="100%">
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3200&pause=1600&color=8B949E&center=true&vCenter=true&width=460&lines=i+build+cool+things+sometimes;founder+of+ub+forge;volleyball%2C+cats%2C+and+code">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3200&pause=1600&color=59636E&center=true&vCenter=true&width=460&lines=i+build+cool+things+sometimes;founder+of+ub+forge;volleyball%2C+cats%2C+and+code">
+  <img alt="i build cool things sometimes" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3200&pause=1600&color=8B949E&center=true&vCenter=true&width=460&lines=i+build+cool+things+sometimes;founder+of+ub+forge;volleyball%2C+cats%2C+and+code">
+</picture>
+
+<br><br>
+
+<sub>[amaans.dev](https://amaans.dev) &nbsp;·&nbsp; [linkedin](https://linkedin.com/in/amaansheikhme) &nbsp;·&nbsp; [email](mailto:amaansheikhme@gmail.com) &nbsp;·&nbsp; [ubforge.com](https://ubforge.com)</sub>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmaanOMO/AmaanOMO/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmaanOMO/AmaanOMO/output/github-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/AmaanOMO/AmaanOMO/output/github-snake-dark.svg">
+</picture>
+
 </div>
-
-## 👋 Hi, I'm Amaan!
-
-I'm a student at the University at Buffalo, studying Computer Science and Statistics. I'm into full-stack development, AI/ML, and turning cool ideas into working products.
-
-I'm also the founder of **UB Forge**, a dev collective helping ambitious students build real-world projects, explore startups, and connect with mentors. → [ubforge.com](https://ubforge.com)
-
-When I'm not coding, you'll probably find me playing volleyball, spending time with friends and family, or watching travel videos. I'm always trying to live a clean and active life.
-
-Learn more about me → [amaans.dev](https://amaans.dev)
-
----
-
-## Tech I Work With
-
-### Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
-### Frameworks & Tools  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-## Some of my Projects
-
-### **Rally – Ongoing**
-A social and stats tracking volleyball app. The next era of volleyball, redefined
-
-Tech: `Swift`, `Go`, `PostgresSQL`
-
-### **Itinera**
-An AI-powered travel planner that maps optimized multi-city routes and recommends places to visit based on your mood.
-
-Tech: `Next.js`, `React`, `Tailwind CSS`, `Google Maps API`, `OpenAI API`
-
-### **Fully Automated Catapult**
-Led a 19-person team to design an Arduino-powered catapult. Raised $1,900, coded in C++, and demoed to alumni.
-
-Tech: `Arduino Uno`, `L298`, `IR Sensors`, `DC Motors`, `Woodworking`
-
----
-
-## Leadership
-
-**UB Forge**  
-*Founder & Executive Director*  
-Launched a dev collective from scratch, trying to bring the builders environment to UB. Built partnerships and internal infra for student-led MVPs.
-
-**Theta Tau**  
-*Head of Professional Dev & Pledge Class President*  
-Ran tours, panels, and built new outreach systems. Led 10-week engineering cohort + hardware build.
-
----
-
-## 🌎 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amaansheikh-swe)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amaansheikhme@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://amaans.dev)
-
----
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AmaanOMO/AmaanOMO/output/github-snake-dark.svg" alt="snake gif"/>
-</p>
-
