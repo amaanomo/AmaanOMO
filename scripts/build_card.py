@@ -10,7 +10,7 @@ from fontTools.pens.svgPathPen import SVGPathPen
 
 # ───────────── CONTENT (edit me) ─────────────
 NAME = "Amaan Sheikh"
-SUBTITLE = "just a guy who builds things that help people (hopefully)"
+SUBTITLE = "I build things that make people's lives better (hopefully)"
 ABOUT = (
     "hey, i'm amaan! right now i'm building ai tools for lawyers at "
     "oneauris and running ub forge, a crew of 250+ student builders. "
