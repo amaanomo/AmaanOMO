@@ -13,9 +13,9 @@ NAME = "Amaan Sheikh"
 SUBTITLE = "I build things that make people's lives better (hopefully)"
 ABOUT = (
     "Hey, I'm Amaan! I'm currently a senior at the University at Buffalo, "
-    "and I happen to build cool things, sometimes... When I'm not coding, "
+    "and I happen to build cool stuff, sometimes... When I'm not coding, "
     "I'm usually side questing, whether that's playing volleyball, finding "
-    "new food spots, watching or making films with friends, or trying to "
+    "new food spots, watching or making fun films with friends, or trying to "
     "find places I can travel to with money I don't have."
 )
 # ─────────────────────────────────────────────
